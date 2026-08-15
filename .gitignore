@@ -1,0 +1,17 @@
+# 构建产物
+dist/
+build/
+*.spec.bak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

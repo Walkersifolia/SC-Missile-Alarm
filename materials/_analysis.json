@@ -1,0 +1,310 @@
+{
+  "AEGS": {
+    "far": {
+      "dur": 0.196,
+      "freq": 3322,
+      "rms": 0.019,
+      "file": "far_260400838.wav"
+    },
+    "locked": {
+      "dur": 0.783,
+      "freq": 5918,
+      "rms": 0.0172,
+      "file": "locked_127096201.wav"
+    },
+    "near": {
+      "dur": 0.316,
+      "freq": 3967,
+      "rms": 0.0237,
+      "file": "near_728754180.wav"
+    }
+  },
+  "ANVL": {
+    "far": {
+      "dur": 0.185,
+      "freq": 3322,
+      "rms": 0.0206,
+      "file": "far_225137332.wav"
+    },
+    "locked": {
+      "dur": 0.785,
+      "freq": 5918,
+      "rms": 0.0221,
+      "file": "locked_612625948.wav"
+    },
+    "near": {
+      "dur": 0.316,
+      "freq": 3340,
+      "rms": 0.0217,
+      "file": "near_182107423.wav"
+    }
+  },
+  "ARGO": {
+    "far": {
+      "dur": 0.185,
+      "freq": 3322,
+      "rms": 0.0147,
+      "file": "far_1053327790.wav"
+    },
+    "locked": {
+      "dur": 0.788,
+      "freq": 5918,
+      "rms": 0.014,
+      "file": "locked_219135301.wav"
+    },
+    "near": {
+      "dur": 0.313,
+      "freq": 4471,
+      "rms": 0.0149,
+      "file": "near_155096592.wav"
+    }
+  },
+  "BANU": {
+    "far": {
+      "dur": 0.191,
+      "freq": 3328,
+      "rms": 0.0094,
+      "file": "far_157150850.wav"
+    },
+    "locked": {
+      "dur": 0.799,
+      "freq": 5918,
+      "rms": 0.0121,
+      "file": "locked_936303829.wav"
+    },
+    "near": {
+      "dur": 0.319,
+      "freq": 8426,
+      "rms": 0.0129,
+      "file": "near_83836885.wav"
+    }
+  },
+  "CNOU": {
+    "far": {
+      "dur": 0.185,
+      "freq": 3123,
+      "rms": 0.0161,
+      "file": "far_682794190.wav"
+    },
+    "locked": {
+      "dur": 0.791,
+      "freq": 5719,
+      "rms": 0.0157,
+      "file": "locked_654421636.wav"
+    },
+    "near": {
+      "dur": 0.313,
+      "freq": 3123,
+      "rms": 0.017,
+      "file": "near_442551854.wav"
+    }
+  },
+  "CRUS": {
+    "far": {
+      "dur": 0.185,
+      "freq": 3322,
+      "rms": 0.0184,
+      "file": "far_959080095.wav"
+    },
+    "locked": {
+      "dur": 0.788,
+      "freq": 5918,
+      "rms": 0.0154,
+      "file": "locked_570719672.wav"
+    },
+    "near": {
+      "dur": 0.316,
+      "freq": 6328,
+      "rms": 0.0171,
+      "file": "near_634111089.wav"
+    }
+  },
+  "DRAK": {
+    "far": {
+      "dur": 0.185,
+      "freq": 3322,
+      "rms": 0.0072,
+      "file": "far_164864758.wav"
+    },
+    "locked": {
+      "dur": 0.785,
+      "freq": 5918,
+      "rms": 0.0093,
+      "file": "locked_179009455.wav"
+    },
+    "near": {
+      "dur": 0.313,
+      "freq": 4014,
+      "rms": 0.0091,
+      "file": "near_782744732.wav"
+    }
+  },
+  "ESPR": {
+    "far": {
+      "dur": 0.188,
+      "freq": 3322,
+      "rms": 0.0142,
+      "file": "far_707818930.wav"
+    },
+    "locked": {
+      "dur": 0.783,
+      "freq": 5918,
+      "rms": 0.0155,
+      "file": "locked_946771992.wav"
+    },
+    "near": {
+      "dur": 0.316,
+      "freq": 3334,
+      "rms": 0.0166,
+      "file": "near_917516290.wav"
+    }
+  },
+  "GRIN": {
+    "far": {
+      "dur": 0.199,
+      "freq": 6650,
+      "rms": 0.0288,
+      "file": "far_551464028.wav"
+    },
+    "locked": {
+      "dur": 0.791,
+      "freq": 5918,
+      "rms": 0.0288,
+      "file": "locked_952495796.wav"
+    },
+    "near": {
+      "dur": 0.316,
+      "freq": 3715,
+      "rms": 0.0298,
+      "file": "near_400467263.wav"
+    }
+  },
+  "KRIG": {
+    "far": {
+      "dur": 0.185,
+      "freq": 3322,
+      "rms": 0.0125,
+      "file": "far_639645564.wav"
+    },
+    "locked": {
+      "dur": 0.78,
+      "freq": 5918,
+      "rms": 0.0123,
+      "file": "locked_19021682.wav"
+    },
+    "near": {
+      "dur": 0.313,
+      "freq": 3340,
+      "rms": 0.0126,
+      "file": "near_285041294.wav"
+    }
+  },
+  "MISC": {
+    "far": {
+      "dur": 0.185,
+      "freq": 3322,
+      "rms": 0.0137,
+      "file": "far_186415777.wav"
+    },
+    "locked": {
+      "dur": 0.788,
+      "freq": 5918,
+      "rms": 0.0124,
+      "file": "locked_894716116.wav"
+    },
+    "near": {
+      "dur": 0.313,
+      "freq": 3363,
+      "rms": 0.0131,
+      "file": "near_929478767.wav"
+    }
+  },
+  "ORIG": {
+    "far": {
+      "dur": 0.193,
+      "freq": 6650,
+      "rms": 0.0186,
+      "file": "far_494901319.wav"
+    },
+    "locked": {
+      "dur": 0.783,
+      "freq": 5924,
+      "rms": 0.0207,
+      "file": "locked_952839387.wav"
+    },
+    "near": {
+      "dur": 0.316,
+      "freq": 4963,
+      "rms": 0.0234,
+      "file": "near_656110998.wav"
+    }
+  },
+  "RSI": {
+    "far": {
+      "dur": 0.183,
+      "freq": 6650,
+      "rms": 0.0189,
+      "file": "far_261935438.wav"
+    },
+    "locked": {
+      "dur": 0.78,
+      "freq": 5918,
+      "rms": 0.0262,
+      "file": "locked_327325762.wav"
+    },
+    "near": {
+      "dur": 0.319,
+      "freq": 3674,
+      "rms": 0.0211,
+      "file": "near_363479118.wav"
+    }
+  },
+  "TMBL": {
+    "locked": {
+      "dur": 0.783,
+      "freq": 5918,
+      "rms": 0.0238,
+      "file": "locked_64474453.wav"
+    }
+  },
+  "VNCL": {
+    "far": {
+      "dur": 0.191,
+      "freq": 6650,
+      "rms": 0.0153,
+      "file": "far_1022868452.wav"
+    },
+    "locked": {
+      "dur": 0.785,
+      "freq": 5918,
+      "rms": 0.0239,
+      "file": "locked_160825003.wav"
+    },
+    "near": {
+      "dur": 0.319,
+      "freq": 3996,
+      "rms": 0.0221,
+      "file": "near_1032883837.wav"
+    }
+  },
+  "XIAN": {
+    "far": {
+      "dur": 0.188,
+      "freq": 3293,
+      "rms": 0.0126,
+      "file": "far_946623790.wav"
+    },
+    "locked": {
+      "dur": 0.785,
+      "freq": 5918,
+      "rms": 0.0125,
+      "file": "locked_32921529.wav"
+    },
+    "near": {
+      "dur": 0.313,
+      "freq": 4400,
+      "rms": 0.0124,
+      "file": "near_165137606.wav"
+    }
+  }
+}
